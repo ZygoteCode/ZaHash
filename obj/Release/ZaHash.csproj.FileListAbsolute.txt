@@ -1,0 +1,15 @@
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\bin\Release\ZaHash.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\bin\Release\ProtoRandom.dll
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\obj\Release\ZaHash.csproj.AssemblyReference.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\obj\Release\ZaHash.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\obj\Release\ZaHash.csproj.CopyComplete
+C:\Users\utente\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\obj\Release\ZaHash.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\bin\Release\ZaHash.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\bin\Release\ProtoRandom.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\bin\Release\ProtoRandom.pdb
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\obj\Release\ZaHash.csproj.AssemblyReference.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\obj\Release\ZaHash.csproj.CoreCompileInputs.cache
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\obj\Release\ZaHash.csproj.CopyComplete
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\obj\Release\ZaHash.dll
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\bin\Release\ZaHash.pdb
+C:\Users\gabry\Desktop\Computer\Developing\Progetti\GabryB03 GitHub\Projects\ZaHash\obj\Release\ZaHash.pdb
